@@ -20,6 +20,7 @@
   max-width: 1300px;
 }
 
+
 /* === Navbar === */
 .Navbar {
   padding: 20px 0;
@@ -1154,5 +1155,10 @@ p {
 @media screen and (max-width :430px) {
   .Website_RPL_Container{
     gap: 60px;
+  }
+}
+@media screen and (max-width:430px) {
+  .Daftar_right{
+    margin: auto;
   }
 }
